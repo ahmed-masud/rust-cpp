@@ -1,6 +1,4 @@
-#![allow(
-    clippy::needless_doctest_main
-)]
+#![allow(clippy::needless_doctest_main)]
 //! This crate `cpp` provides macros that allow embedding arbitrary C++ code.
 //!
 //! # Usage
